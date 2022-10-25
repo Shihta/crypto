@@ -20,8 +20,8 @@ import (
 	"crypto/aes"
 	"fmt"
 
-	"github.com/jacobsa/crypto/cmac"
-	"github.com/jacobsa/crypto/common"
+	"github.com/Shihta/crypto/cmac"
+	"github.com/Shihta/crypto/common"
 )
 
 var s2vZero []byte

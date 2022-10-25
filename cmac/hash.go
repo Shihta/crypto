@@ -22,7 +22,7 @@ import (
 	"hash"
 	"unsafe"
 
-	"github.com/jacobsa/crypto/common"
+	"github.com/Shihta/crypto/common"
 )
 
 type cmacHash struct {

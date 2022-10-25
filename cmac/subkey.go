@@ -19,7 +19,7 @@ import (
 	"bytes"
 	"crypto/cipher"
 
-	"github.com/jacobsa/crypto/common"
+	"github.com/Shihta/crypto/common"
 )
 
 var subkeyZero []byte

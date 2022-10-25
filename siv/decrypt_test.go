@@ -19,8 +19,8 @@ import (
 	"crypto/rand"
 	"testing"
 
-	"github.com/jacobsa/crypto/siv"
-	aes_testing "github.com/jacobsa/crypto/testing"
+	"github.com/Shihta/crypto/siv"
+	aes_testing "github.com/Shihta/crypto/testing"
 	. "github.com/jacobsa/oglematchers"
 	. "github.com/jacobsa/ogletest"
 )

@@ -18,7 +18,7 @@ package siv
 import (
 	"log"
 
-	"github.com/jacobsa/crypto/common"
+	"github.com/Shihta/crypto/common"
 )
 
 // The xorend operator of RFC 5297.

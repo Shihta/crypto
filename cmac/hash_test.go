@@ -16,8 +16,8 @@
 package cmac_test
 
 import (
-	"github.com/jacobsa/crypto/cmac"
-	aes_testing "github.com/jacobsa/crypto/testing"
+	"github.com/Shihta/crypto/cmac"
+	aes_testing "github.com/Shihta/crypto/testing"
 	. "github.com/jacobsa/oglematchers"
 	. "github.com/jacobsa/ogletest"
 	"hash"

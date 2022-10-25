@@ -16,7 +16,7 @@
 package siv
 
 import (
-	aes_testing "github.com/jacobsa/crypto/testing"
+	aes_testing "github.com/Shihta/crypto/testing"
 	. "github.com/jacobsa/oglematchers"
 	. "github.com/jacobsa/ogletest"
 	"testing"
